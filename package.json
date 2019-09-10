@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "lion-lib-sayan": "^1.0.0",
     "underscore": "^1.9.1"
   },
   "devDependencies": {
